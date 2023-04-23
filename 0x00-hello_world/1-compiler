@@ -1,2 +1,2 @@
 #!/bin/bash
-CFILE=program_name gcc main.c -o $CFILE
+gcc -c $CFILE
